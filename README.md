@@ -7,7 +7,7 @@ The calculator performs the following operations:
      - fetches values for two arguments a and b, drawing the user's attention when he does not enter numeric values. The user can retype them.
      - for addition and multiplication, it is possible to add any number of arguments. The user may make mistakes in entering data,too.
 
-### MOVIE LIBRARY
+### MOVIE LIBRARY (class and subclass)
 
 The library:
      - stores information about movies and series in a list
