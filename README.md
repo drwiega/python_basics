@@ -1,4 +1,4 @@
-To show my basic Python skills I prepared a simple calculator and an even more simple movie library.
+To show my basic Python skills I prepared a simple calculator and a movie library.
 
 ### CALCULATOR
 
@@ -7,7 +7,7 @@ The calculator performs the following operations:
      - fetches values for two arguments a and b, drawing the user's attention when he does not enter numeric values. The user can retype them.
      - for addition and multiplication, it is possible to add any number of arguments. The user may make mistakes in entering data,too.
 
-### MOVIE LIBRARY ## (class and subclass)
+### MOVIE LIBRARY (class and subclass)
 
 The library:
      - stores information about movies and series in a list
